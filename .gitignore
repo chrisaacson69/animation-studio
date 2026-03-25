@@ -1,0 +1,23 @@
+# Generated outputs
+media/videos/
+media/images/
+frames/
+*.mp4
+*.wav
+*.mp3
+
+# Models (too large for git)
+ComfyUI/models/
+
+# Credentials
+client_secrets.json
+request.token
+*.pem
+*.key
+.env
+
+# Build artifacts
+__pycache__/
+*.pyc
+rhubarb.zip
+youtubeuploader.tar.gz
