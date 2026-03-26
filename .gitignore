@@ -21,3 +21,7 @@ __pycache__/
 *.pyc
 rhubarb.zip
 youtubeuploader.tar.gz
+media/texts/
+media/videos/
+media/images/
+__pycache__/
